@@ -381,7 +381,8 @@ bool NukeXInstance::ExecuteOn( View& view )
 
    CompositorResult result = compositor.Process( floatImage,
       [&console]( const CompositorProgress& progress ) {
-         console.Write( String().Format( "\r<clrbol>%s: %.0f%%",
+         // Use fixed-width format for cleaner progress display
+         console.Write( String().Format( "\r<clrbol>%-20s [%3.0f%%]",
             progress.message.c_str(), progress.overall * 100 ) );
          console.Flush();
       }
