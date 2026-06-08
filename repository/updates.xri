@@ -7,6 +7,9 @@
       <p>
          Intelligent region-aware processing for PixInsight by Scott Carter.
       </p>
+      <p>
+         <b>MOVED:</b> NukeX now ships from the unified astro-pi repository. Please register https://raw.githubusercontent.com/scarter4work/astro-pi/main/repository/ to receive NukeX 5.0.0 and future updates.
+      </p>
    </description>
    <platform os="linux" arch="x64" version="1.8.0:1.9.9">
       <package fileName="20260219-linux-x64-NukeX.tar.gz" sha1="bab3faf4876a6ad96b24492df1d327f86cc4c34a" type="module" releaseDate="20260219">
@@ -36,4 +39,4 @@
       </package>
    </platform>
 </xri>
-<Signature developerId="scarter4work" timestamp="2026-02-20T04:03:33.561Z" encoding="Base64">YwjgS/h23cZA00Pq2/tDEHifyjTKpjs1jsGfggGKYE+wIDcHsNO4eHdr0lLU7JbjykFsoNiSLijVKLhsLpu4BA==</Signature>
+<Signature developerId="scarter4work" timestamp="2026-06-08T22:13:58.657Z" encoding="Base64">e/Wxh7RuH0KKMGR6wEj4DOWm2M5lNHBKhDcO1pzVAdpsWYPL2eoQXlS3PCVdYg1C6NA3Zom+213DZVBzU+gXDA==</Signature>
