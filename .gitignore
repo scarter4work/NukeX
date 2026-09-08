@@ -35,3 +35,9 @@ core
 # Backup files
 *.bak
 *.orig
+
+# Datasets and captures -- NOT source. training_data/ alone is 298 GB, so a
+# stray `git add -A` here would try to commit a third of a terabyte.
+training_data/
+test_data/
+*.zip
