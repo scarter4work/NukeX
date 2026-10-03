@@ -1,3 +1,5 @@
+> **⚠️ MOVED (2026-10-03):** this repository is archived. NukeX now lives in [scarter4work/astro-pi](https://github.com/scarter4work/astro-pi) (`modules/nukex/`; this version is preserved under `archive/`). PixInsight users: register `https://raw.githubusercontent.com/scarter4work/astro-pi/main/repository/`.
+
 # NukeX - Intelligent Region-Aware Stretch for PixInsight
 
 **"Will blow your socks off!"**
