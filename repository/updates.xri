@@ -10,33 +10,9 @@
       <p>
          <b>MOVED:</b> NukeX now ships from the unified astro-pi repository. Please register https://raw.githubusercontent.com/scarter4work/astro-pi/main/repository/ to receive NukeX 5.0.0 and future updates.
       </p>
+      <p>
+         <b>This repository no longer distributes packages.</b> Register https://raw.githubusercontent.com/scarter4work/astro-pi/main/repository/ to install and update.
+      </p>
    </description>
-   <platform os="linux" arch="x64" version="1.8.0:1.9.9">
-      <package fileName="20260219-linux-x64-NukeX.tar.gz" sha1="bab3faf4876a6ad96b24492df1d327f86cc4c34a" type="module" releaseDate="20260219">
-         <title>NukeX 2.2.0.50</title>
-         <description>
-            <p>
-               <b>NukeX - Intelligent Region-Aware Processing for PixInsight</b>
-            </p>
-            <p>
-               NukeX provides two powerful processes for astrophotography:
-            </p>
-            <ul>
-               <li>
-                  <b>NukeX</b> - Statistical image stretching with multiple algorithms (MTF, GHS, ArcSinh, Log, etc.)
-               </li>
-               <li>
-                  <b>NukeXStack</b> - Intelligent pixel selection for subframe integration with per-frame normalization, quality weighting, and failed registration exclusion.
-               </li>
-            </ul>
-            <p>
-               <b>Version 2.2.0.50 - Fix CFA/Bayer linear detection for segmentation preprocessing</b>
-            </p>
-            <p>
-               Copyright (c) 2026 Scott Carter. All Rights Reserved.
-            </p>
-         </description>
-      </package>
-   </platform>
 </xri>
-<Signature developerId="scarter4work" timestamp="2026-06-08T22:13:58.657Z" encoding="Base64">e/Wxh7RuH0KKMGR6wEj4DOWm2M5lNHBKhDcO1pzVAdpsWYPL2eoQXlS3PCVdYg1C6NA3Zom+213DZVBzU+gXDA==</Signature>
+<Signature developerId="scarter4work" timestamp="2026-10-13T15:37:15.892Z" encoding="Base64">0IiloqLNJ+ztsV4m7M2foomAuVRTBsxN7LqrfYw4Mjc52ndEES/T3DdtgCX0N94rWL2ras6O+c0BD1hg3/ELAg==</Signature>
